@@ -1,0 +1,35 @@
+.btn-color{
+    background: #B68C5A;
+}
+.nav-color{
+    color: #707070;
+}
+.banner-container{
+    height: 100vh;
+    background-image: url("../images/banner.png");
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+}
+.banner-img-1{
+    background-image: url("../images/slider-1.jpg");
+    height: 100vh;
+}
+.banner-img-2{
+    background-image: url("../images/slider-2.jpg");
+    height: 100vh;
+}
+.banner-img-3{
+    background-image: url("../images/slider-3.jpg");
+    height: 100vh;
+}
+.avater, .avater-1{
+    height: 120px;
+    width: 120px;
+    background-color: white;
+    border-radius: 50%;
+    border: 2px solid red;
+    
+   }
